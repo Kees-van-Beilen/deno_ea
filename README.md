@@ -18,7 +18,7 @@ Need to write an algorithm to format al lot of data according to a bunch of cond
 in this example we're going to estimate PI with the power of Evolutionary Algorithms
 
 ```ts
-import {evolutionaryAlgorithm,Strategy} from "https://deno.land/x/evo_alg@1.0.0/mod.ts"
+import {evolutionaryAlgorithm,Strategy} from "https://deno.land/x/evo_alg@v1.0.0/mod.ts"
 
 //let's firstly create our inital guesses (they don’t have to be accurate)
 let starting_population:number[] = [];
